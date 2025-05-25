@@ -1,0 +1,5 @@
+{
+  "name": "AI Content Creator Studio",
+  "description": "A React application to generate educational scripts from a topic, simulate voice generation, and preview it with a background video. This frontend interacts with Gemini for script generation and simulates other backend processes.",
+  "requestFramePermissions": []
+}
