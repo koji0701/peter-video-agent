@@ -25,3 +25,4 @@ dist-ssr
 node_modules
 .env
 .env.local
+MULTI_VOICE_IMPLEMENTATION.md

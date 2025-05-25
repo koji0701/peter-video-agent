@@ -9,6 +9,7 @@ export interface AudioGenerationDetails {
   statusMessage: string; // Message about the audio generation process
 }
 
+// This specific bundle type might be less used now as App.tsx orchestrates calls separately
 export interface ContentBundleResponse {
   scriptText: string;
   audioDetails: AudioGenerationDetails;
